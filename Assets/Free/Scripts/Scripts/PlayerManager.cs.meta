@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 198682ce175597c40afe257b632d55a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - respawPoint: {instanceID: 0}
+  - currentPlayer: {instanceID: 0}
+  - playerPrefab: {fileID: 2405239369737700851, guid: 501c55b1d27b65c439d152703a7d960f, type: 3}
+  executionOrder: -2
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
